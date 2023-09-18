@@ -1,0 +1,5 @@
+0 Dog
+1 Cat
+2 4 Wheeler
+3 Obstacle
+4 Two Wheeler
